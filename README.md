@@ -42,6 +42,7 @@ Welcome to my GitHub! I am a student majoring in **Mechatronics (Công nghệ K�
 - Expanding my knowledge in data structures, algorithms, and multi-agent architectures.
 
 ### 📫 How to Reach Me
+- Email: phonganotheracc@gmail.com
 - Feel free to open an issue in any of my repositories if you want to collaborate on tech projects, Android modding, or hackathons!
 
 ---
