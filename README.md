@@ -4,6 +4,22 @@
 
 Welcome to my GitHub! I am a student majoring in **Mechatronics (Công nghệ Kỹ thuật Cơ điện tử)** at the **University of Transport Technology (UTT)**. I am passionate about bridging the gap between hardware and software, from system-level Android modifications to building web platforms for student communities.
 
+### 📊 Profile Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HanitaV&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/HanitaV?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/repos/HanitaV?style=for-the-badge&logo=github&label=Public%20Repos" />
+  <img src="https://img.shields.io/github/stars/HanitaV/HanitaV?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/forks/HanitaV/HanitaV?style=for-the-badge&logo=github&label=Forks" />
+  <img src="https://img.shields.io/github/watchers/HanitaV/HanitaV?style=for-the-badge&logo=github&label=Watchers" />
+</p>
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanitaV&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanitaV&layout=compact&hide_border=true" />
+</p>
+
 ### 👨‍💻 About Me
 
 - 🎓 Studying Mechatronics at UTT, combining technical hardware knowledge with software engineering.
