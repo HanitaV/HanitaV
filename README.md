@@ -53,7 +53,7 @@ Welcome to my GitHub! I am a student majoring in **Mechatronics (Công nghệ K�
 - PC Hardware Troubleshooting & Optimization
 
 ### 🌱 Currently Working On
-- Developing and polishing the [**NEO Education** ](https://neoeducation.me/)web platform.
+- Developing and polishing the [**NEO Education**](https://neoeducation.me/) and [Triet UTT](https://sgf.id.vn/triet-utt/) web platform.
 - Experimenting with advanced Android kernel builds.
 - Expanding my knowledge in data structures, algorithms, and multi-agent architectures.
 
